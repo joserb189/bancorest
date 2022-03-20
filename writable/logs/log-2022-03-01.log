@@ -1,0 +1,61 @@
+CRITICAL - 2022-03-01 09:16:42 --> syntax error, unexpected token "{"
+#0 C:\bancorest\system\Autoloader\Autoloader.php(200): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\bancorest\\ve...')
+#1 C:\bancorest\app\Controllers\API\Clientes.php(5): CodeIgniter\Autoloader\Autoloader->loadClassmap('CodeIgniter\\RES...')
+#2 C:\bancorest\system\Autoloader\Autoloader.php(264): include_once('C:\\bancorest\\ap...')
+#3 C:\bancorest\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\bancorest\\ap...')
+#4 C:\bancorest\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\bancorest\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#7 C:\bancorest\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#8 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\bancorest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\bancorest\system\Commands\Server\rewrite.php(43): require_once('C:\\bancorest\\pu...')
+#11 {main}
+CRITICAL - 2022-03-01 10:32:35 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 10:40:36 --> Unclosed '{' on line 34
+#0 C:\xampp\htdocs\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\xampp\htdocs\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\xampp\htdocs\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 11:43:28 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 11:44:34 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 21:39:17 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 21:50:53 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 21:51:44 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}
+CRITICAL - 2022-03-01 23:53:01 --> Unclosed '{' on line 34
+#0 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#3 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#4 {main}

@@ -1,0 +1,6 @@
+CRITICAL - 2022-02-22 20:51:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\bancorest\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\bancorest\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\bancorest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\bancorest\spark(45): require('C:\\bancorest\\sy...')
+#4 {main}

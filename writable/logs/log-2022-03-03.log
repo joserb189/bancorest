@@ -1,0 +1,48 @@
+CRITICAL - 2022-03-03 11:37:20 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 61)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-03 11:37:41 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 61)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-03 11:37:46 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 61)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-03 11:55:17 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 61)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-03 11:56:39 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 61)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
+CRITICAL - 2022-03-03 12:15:13 --> Undefined variable $router
+#0 C:\bancorest\app\Config\Routes.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\bancorest\\ap...', 63)
+#1 C:\bancorest\system\CodeIgniter.php(706): require('C:\\bancorest\\ap...')
+#2 C:\bancorest\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\bancorest\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\bancorest\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#5 C:\bancorest\spark(63): CodeIgniter\CLI\Console->run()
+#6 {main}
